@@ -40,3 +40,5 @@ kubectl rollout undo deployment nodeapp
 ```
 kubectl rollout undo deployment nodeapp --to-revision=1
 ```
+im doing my task 1
+im in blr
